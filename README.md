@@ -1,3 +1,5 @@
+<img height="400" width="5000" src="https://github.com/cruse-charles/cruse-charles/assets/121701827/861030cc-f009-4965-8f40-4004cd18581f"/>
+
 ## Hi, I'm Charles Cruse 👋
 ### I'm a full-stack software engineer
 <!--
@@ -7,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on interview prep
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 💬 Ask me about video games!
+- 💬 Ask me about video games, scuba diving, or soccer!
 - 📫 How to reach me: charle9@vt.edu
 - ⚡ Fun fact: I love traveling and learning about history. Tell me where you're from!
 
