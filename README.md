@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on interview prep
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💬 Ask me about video games, scuba diving, or soccer!
-- 📫 How to reach me: charle9@vt.edu
+- 📫 How to reach me: charlesncruse@gmail.com
 - ⚡ Fun fact: I love traveling and learning about history. Tell me where you're from!
 
 ## Technologies
